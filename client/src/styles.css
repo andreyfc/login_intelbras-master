@@ -1,0 +1,21 @@
+body{
+    background-color: green;
+}
+.form-padrao{
+        text-align: center;
+        margin-top: 150px;
+    
+}
+
+h1 {
+    color: #fff;
+}
+p{
+    color: #fff;
+}
+a{
+    color: #FFF;
+}
+label{
+    color:#FFF;
+}

@@ -1,0 +1,72 @@
+.container-total{
+    background-color: #00A335
+}
+
+h1{
+    color: #ffffff;
+    font-family: 'Museo Sans';
+    margin-left: 120px;
+}
+
+p{
+    color: #ffffff;
+    font-family: 'museo-sans';
+    margin-top: -10px;
+    margin-left: 148px;
+
+}
+
+.distanciarTexto{
+    padding-bottom: 50px;
+}
+
+.text-white{
+    color: #ffffff;
+}
+
+.text-green{
+    color: #00A335;
+}
+
+
+input{
+    width: 50%;
+    text-align: left;
+}
+
+button{
+    color: #ffffff;
+
+}
+.alinhar-tela{
+    margin-top: 150px;
+}
+a{
+    margin-left: 128px;
+}
+
+
+.inputWrap input{
+     
+      width: 34.5rem;
+      border: none;
+      border-bottom: 0.15rem solid #ffffff;
+      border-radius: 0px;
+      background: none;
+      color:#ffffff;
+      box-shadow: none;
+      font-family: "Roboto", sans-serif;
+      font-size: 1.4rem;
+      font-weight: 400;
+      line-height: 100%; 
+
+    }
+
+    ::placeholder{
+        color:  #ffffff;
+    }
+.display-flex{
+    display: flex;
+    align-items: baseline;
+}
+
